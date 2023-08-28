@@ -3008,9 +3008,10 @@
 		"cost": 175,
 		"requiredTech": "Chivalry",
 		"promotions": ["Observation"],
-		"uniques": ["May capture killed [Water] units", 
-					"Limited to [2] per Civilization", 
-					"Beast"],
+		"uniques": [
+			"May capture killed [Water] units", 
+			"Limited to [2] per Civilization",
+			"Beast"],
 		"attackSound": "nonmetalhit"
 	},
 	
